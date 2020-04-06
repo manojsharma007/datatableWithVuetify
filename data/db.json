@@ -1,0 +1,124 @@
+{
+    "songs": [
+    {
+        "id": "1",
+        "name": "Thriller",
+        "album": "Thriller"
+    },
+    {
+        "id": "2",
+        "name": "Dangerous",
+        "album": "Dangerous"
+    },
+    {
+        "id": "3",
+        "name": "Stranger In Moscow",
+        "album": "History"
+    },
+    {
+        "id": "4",
+        "name": "Smooth Criminal",
+        "album": "BAD"
+    },
+    {
+        "id": "5",
+        "name": "BAD",
+        "album": "BAD"
+    },
+    {
+        "id": "6",
+        "name": "Black or White",
+        "album": "Dangerous"
+    },
+    {
+        "id": "6",
+        "name": "You rock My World",
+        "album": "Invincible"
+    },
+    {
+        "id": "7",
+        "name": "Hold My Hand",
+        "album": "Michael"
+    },
+    {
+        "id": "8",
+        "name": "Rock With You",
+        "album": "Off The Wall"
+    },
+    {
+        "id": "9",
+        "name": "Billy Jean",
+        "album": "Thriller"
+    },
+    {
+        "id": "10",
+        "name": "They don't really care about us",
+        "album": "History"
+    }
+  ],
+
+  "employee": [{
+    "id": 1,
+    "name": "Silvanus J.",
+    "gender": "Male",
+    "department": "Training",
+    "city": "Zhouzhuang"
+  }, {
+    "id": 2,
+    "name": "Silvanus M.",
+    "gender": "Male",
+    "department": "Engineering",
+    "city": "Wotsogo"
+  }, {
+    "id": 3,
+    "name": "Elbertina",
+    "gender": "Female",
+    "department": "Training",
+    "city": "Zhangjiachang"
+  }, {
+    "id": 4,
+    "name": "Kennan",
+    "gender": "Male",
+    "department": "Human Resources",
+    "city": "Miedzichowo"
+  }, {
+    "id": 5,
+    "name": "Kurt",
+    "gender": "Male",
+    "department": "Training",
+    "city": "Cascavel"
+  }, {
+    "id": 6,
+    "name": "York",
+    "gender": "Male",
+    "department": "Services",
+    "city": "Kyaukse"
+  }, {
+    "id": 7,
+    "name": "Barnie",
+    "gender": "Male",
+    "department": "Training",
+    "city": "Pasirpanjang"
+  }, {
+    "id": 8,
+    "name": "Brigg",
+    "gender": "Male",
+    "department": "Services",
+    "city": "Khoronk’"
+  }, {
+    "id": 9,
+    "name": "Fredek",
+    "gender": "Male",
+    "department": "Sales",
+    "city": "Ishioka"
+  }, {
+    "id": 10,
+    "name": "Kordula",
+    "gender": "Female",
+    "department": "Support",
+    "city": "Lapas"
+  }]
+
+
+
+}
